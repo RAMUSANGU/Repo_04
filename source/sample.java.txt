@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 class sample  hello git 12345
+=======
+class sample  hello git 12345 
+>>>>>>> 8dfeb8875a14fe6ecadcdac00db5df3873445739
 {
 public static void main [string args]
 
