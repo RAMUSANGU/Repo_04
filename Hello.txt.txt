@@ -1,5 +1,10 @@
 Day 1 code checking day 2 code checking
 Day 2 code checking day 2 code checking
 hello this is ramu sangu as DevOps engineer in TCS, current ctc 12 lac 
+<<<<<<< HEAD
 hello thei is sangu ramu as DevOps Engineer in Wipro my current ctc per annum is 10 lac.
 111111111111111111111111111111111111111111111111111111111111111111111111111
+=======
+hello this is sangu ramu as DevOps Enginerr in capzemine my current ctc is 10 lac.
+111111111111111111111111111111111111111111111111111111111111
+>>>>>>> 92e5806aa50384f7beae93e9db687eb1e31d0485
